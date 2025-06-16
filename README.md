@@ -50,20 +50,22 @@ Employee Management System is a full-stack web application designed to manage em
 ## Screenshots
 1. **HomePage**
    
-   ![HomePage](https://github.com/user-attachments/assets/1e307805-c98e-4b9e-867f-5484107eda44)
+   ![HomePage](https://github.com/user-attachments/assets/29bc0b87-8367-4b4a-979e-5b0f61dc08e5)
+
 
 2. **Employees List**
 
-    ![Employees List](https://github.com/user-attachments/assets/6fbe9b54-351f-4711-96bf-aec784f58dd3)
+    ![Employees List](https://github.com/user-attachments/assets/b6edf743-c2bb-488d-88dc-9c03873bd3b7)
+
 
 3. **Register Employee**
 
-    ![Register Employee](https://github.com/user-attachments/assets/9addde9b-1c88-4ed8-88e5-2c006b61dc85)
+    ![Register Employee](https://github.com/user-attachments/assets/3efecd29-ddc0-46f3-ad00-d97e686156bf)
 
 4. **Update Employee**
     
-      ![Update Employee](https://github.com/user-attachments/assets/8024f760-ce4e-4cab-94f9-0e39b17ad8b3)
-    
+      ![Update Employee](https://github.com/user-attachments/assets/9126cfe8-06e2-4aea-b4aa-387b068d4e9e)
+
    
 
 
